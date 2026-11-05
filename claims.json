@@ -1,0 +1,74 @@
+[
+  {
+    "claim_id": "CLM7001",
+    "policy_id": "POL1001",
+    "claim_date": "2025-04-12",
+    "claim_type": "Accident",
+    "claim_amount": 42000.0,
+    "claim_status": "Approved"
+  },
+  {
+    "claim_id": "CLM7002",
+    "policy_id": "POL1002",
+    "claim_date": "2025-05-23",
+    "claim_type": "Hospitalization",
+    "claim_amount": 68000.0,
+    "claim_status": "Paid"
+  },
+  {
+    "claim_id": "CLM7003",
+    "policy_id": "POL1003",
+    "claim_date": "2025-08-02",
+    "claim_type": "PropertyDamage",
+    "claim_amount": 15000.0,
+    "claim_status": "Rejected"
+  },
+  {
+    "claim_id": "CLM7004",
+    "policy_id": "POL1004",
+    "claim_date": "2025-09-17",
+    "claim_type": "Accident",
+    "claim_amount": 27500.0,
+    "claim_status": "UnderReview"
+  },
+  {
+    "claim_id": "CLM7005",
+    "policy_id": "POL1005",
+    "claim_date": "2025-10-05",
+    "claim_type": "Life",
+    "claim_amount": 250000.0,
+    "claim_status": "UnderReview"
+  },
+  {
+    "claim_id": "CLM7006",
+    "policy_id": "POL1006",
+    "claim_date": "2025-06-14",
+    "claim_type": "Hospitalization",
+    "claim_amount": 34000.0,
+    "claim_status": "Paid"
+  },
+  {
+    "claim_id": "CLM7007",
+    "policy_id": "POL1007",
+    "claim_date": "2025-10-21",
+    "claim_type": "Accident",
+    "claim_amount": 18500.0,
+    "claim_status": "Approved"
+  },
+  {
+    "claim_id": "CLM7008",
+    "policy_id": "POL1008",
+    "claim_date": "2025-07-30",
+    "claim_type": "PropertyDamage",
+    "claim_amount": 22000.0,
+    "claim_status": "Paid"
+  },
+  {
+    "claim_id": "CLM7009",
+    "policy_id": "POL1001",
+    "claim_date": "2025-11-02",
+    "claim_type": "GlassDamage",
+    "claim_amount": 6500.0,
+    "claim_status": "Paid"
+  }
+]

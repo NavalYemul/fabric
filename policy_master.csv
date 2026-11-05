@@ -1,0 +1,9 @@
+policy_id,customer_id,product,region,policy_start_date,policy_end_date,annual_premium,policy_status
+POL1001,CUS501,Motor,West,2025-01-15,2026-01-14,18500.0,Active
+POL1002,CUS502,Health,South,2025-03-01,2026-02-28,32000.0,Active
+POL1003,CUS503,Home,North,2024-11-20,2025-11-19,12500.0,Expired
+POL1004,CUS504,Motor,East,2025-06-10,2026-06-09,22000.0,Active
+POL1005,CUS505,Life,West,2025-02-05,2026-02-04,41000.0,Active
+POL1006,CUS506,Health,North,2025-04-18,2026-04-17,28500.0,Active
+POL1007,CUS507,Motor,South,2025-07-22,2026-07-21,19800.0,Active
+POL1008,CUS508,Home,East,2025-05-12,2026-05-11,15600.0,Active
